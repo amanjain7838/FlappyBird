@@ -19,5 +19,5 @@
 
 ## Description
 
-Flappy Bird is android game developed using java.<br>
+Flappy Bird is an android game developed using java.<br>
 <small>Original Flappy Bird game was developed by Dong Nguyen.</small>
